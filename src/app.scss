@@ -1,0 +1,24 @@
+.todo-list-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.todo-list-wrapper {
+    border: 2px solid black;
+    width: 600px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+
+
+.todo-list-main {
+    padding: 20px 10px;
+
+}
+
+.todo-list-pagination {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+}
